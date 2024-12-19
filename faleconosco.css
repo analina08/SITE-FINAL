@@ -1,0 +1,16 @@
+#emailForm{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 8px;
+}
+#email #senha{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #333;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
